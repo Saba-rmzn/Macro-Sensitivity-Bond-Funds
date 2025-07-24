@@ -1,0 +1,47 @@
+﻿Ticker,Name,Fund_Category,Duration_Category,Management_Style,Fund_Type
+SHY,iShares 1-3 Year Treasury Bond ETF,Treasury,Short,Passive,ETF
+IEF,iShares 7-10 Year Treasury Bond ETF,Treasury,Intermediate,Passive,ETF
+TLT,iShares 20+ Year Treasury Bond ETF,Treasury,Long,Passive,ETF
+GOVT,iShares U.S. Treasury Bond ETF,Treasury,Intermediate,Passive,ETF
+VFISX,Vanguard Short Treasury Index Fund,Treasury,Short,Passive,Mutual
+VGLT,Vanguard Long-Term Treasury ETF,Treasury,Long,Passive,ETF
+SPTL,SPDR Portfolio Long Term Treasury ETF,Treasury,Long,Passive,ETF
+USFR,WisdomTree Floating Rate Treasury Fund,Treasury,Short,Passive,ETF
+PFGAX,PIMCO Long-Term U.S. Government Fund,Treasury,Long,Active,Mutual
+AMUSX,American Funds U.S. Government Securities Fund,Treasury,Intermediate,Active,Mutual
+FGOVX,Fidelity® Government Income Fund,Treasury,Intermediate,Active,Mutual
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury ETF,Treasury,Long,Passive,ETF
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Investment Grade,Intermediate,Passive,ETF
+VCSH,Vanguard Short-Term Corporate Bond ETF,Investment Grade,Short,Passive,ETF
+VCLT,Vanguard Long-Term Corporate Bond ETF,Investment Grade,Long,Passive,ETF
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,Investment Grade,Short,Passive,ETF
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF,Investment Grade,Short,Passive,ETF
+FLOT,iShares Floating Rate Bond ETF,Investment Grade,Short,Passive,ETF
+IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,Investment Grade,Long,Passive,ETF
+SPLB,SPDR Portfolio Long Term Corporate Bond ETF,Investment Grade,Long,Passive,ETF
+DODIX,Dodge & Cox Income Fund Class I,Investment Grade,Intermediate,Active,Mutual
+LALDX,Lord Abbett Short Duration Income Fund,Investment Grade,Short,Active,Mutual
+FBNDX,Fidelity® Investment Grade Bond Fund,Investment Grade,Intermediate,Active,Mutual
+LSIIX,Loomis Sayles Investment Grade Bond Fund,Investment Grade,Intermediate,Active,Mutual
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,High Yield,Intermediate,Passive,ETF
+JNK,SPDR Bloomberg High Yield Bond ETF,High Yield,Intermediate,Passive,ETF
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,High Yield,Short,Passive,ETF
+SJNK,SPDR Short Term High Yield Bond ETF,High Yield,Short,Passive,ETF
+VWEHX,Vanguard High-Yield Corporate Fund,High Yield,Intermediate,Active,Mutual
+SPHIX,Fidelity High Income Fund,High Yield,Intermediate,Active,Mutual
+PHIYX,PIMCO High Yield Fund,High Yield,Intermediate,Active,Mutual
+PRHYX,T. Rowe Price High Yield Fund,High Yield,Intermediate,Active,Mutual
+AHITX,American Funds American High-Income Trust,High Yield,Intermediate,Active,Mutual
+BHYIX,BlackRock High Yield Bond Fund,High Yield,Intermediate,Active,Mutual
+PHYZX,PGIM High Yield Fund,High Yield,Intermediate,Active,Mutual
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index ETF,High Yield,Short,Passive,ETF
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,TIPS,Short,Passive,ETF
+TIP,iShares TIPS Bond ETF,TIPS,Intermediate,Passive,ETF
+SCHP,Schwab U.S. TIPS ETF,TIPS,Intermediate,Passive,ETF
+STIP,iShares 0-5 Year TIPS Bond ETF,TIPS,Short,Passive,ETF
+FIPDX,Fidelity Inflation-Protected Bond Index Fund,TIPS,Intermediate,Passive,Mutual
+SWRSX,Schwab Treasury Inflation Protected Securities Index Fund,TIPS,Intermediate,Passive,Mutual
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS ETF,TIPS,Short,Passive,ETF
+TIPX,SPDR® Bloomberg 1-10 Year TIPS ETF,TIPS,Intermediate,Passive,ETF
+PRTNX,PIMCO Real Return Fund,TIPS,Intermediate,Active,Mutual
+BFIAX,American Funds Inflation Linked Bond Fund,TIPS,Intermediate,Active,Mutual
